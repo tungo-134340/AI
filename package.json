@@ -1,0 +1,23 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "Enter file content",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungo-134340/AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tungo-134340/AI/issues"
+  },
+  "homepage": "https://github.com/tungo-134340/AI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
